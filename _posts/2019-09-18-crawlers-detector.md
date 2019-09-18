@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to avoid Search Crawler via JavaScript"
-date: 2019-08-03 03:14
+date: 2019-09-18 18:03
 tags: [javascript, bot, crawler]
 ---
 
