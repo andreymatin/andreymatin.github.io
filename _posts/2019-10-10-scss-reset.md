@@ -2,7 +2,7 @@
 layout: post
 title: "SCSS Reset"
 date: 2019-10-10 23:40
-tags: [javascript]
+tags: [scss, css]
 ---
 
 I created SCSS compilation for reset cross-browser styles with best practices which possible to find.
