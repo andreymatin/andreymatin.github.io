@@ -1,13 +1,11 @@
----
-layout: post
-title: "SCSS Reset"
-date: 2019-10-10 23:40
-tags: [scss, css]
----
+# SCSS Reset
 
-I created SCSS compilation for reset cross-browser styles with best practices which possible to find.
-
+SCSS compilation for cross-browser styles reset with best practices.
 https://github.com/andreymatin/scss-reset
+
+
+date: 2019-10-10 23:40
+
 
 ## Features
 

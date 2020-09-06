@@ -1,11 +1,6 @@
----
-layout: post
-title: "How to block countries via JavaScript without API requests"
-date: 2019-09-27 18:18
-tags: [javascript]
----
+# How to block countries via JavaScript without API requests
 
-It's a light solution for blocking unwanted guest based on client-side javascript
+Light solution for blocking unwanted guest based on client-side javascript
 
 1. Detect Browser's Language
 2. Check detection results by blocked list

@@ -1,9 +1,4 @@
----
-layout: post
-title: "How to get text nodes except empty via JavaScript"
-date: 2019-09-25 17:52
-tags: [javascript]
----
+# How to get text nodes except empty via JavaScript
 
 ```javascript
     /**

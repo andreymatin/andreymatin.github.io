@@ -1,9 +1,4 @@
----
-layout: post
-title: "Custom console.log()"
-date: 2019-04-25 15:59
-tags: [javascript, css]
----
+# Custom console.log()
 
 <p class="codepen" data-height="266" data-theme-id="light" data-default-tab="js,result" data-user="andreymatin" data-slug-hash="WWYVdd" style="height: 266px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="WWYVdd">
   <span>See the Pen <a href="https://codepen.io/andreymatin/pen/WWYVdd/">

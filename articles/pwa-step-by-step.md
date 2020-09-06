@@ -1,10 +1,6 @@
----
-layout: post
-title: "PWA development: short notes"
-date: 2019-08-03 03:14
-tags: [javascript, pwa]
----
+# PWA development: short notes
 
+date: 2019-08-03 03:14
 
 # I. Setup
 
@@ -96,7 +92,7 @@ SSLCertificateKeyFile "${SRVROOT}/conf/key/private.key"
 ```
 
 
-# II. Scripts
+# II. Scri
 
 ## Testing
 
