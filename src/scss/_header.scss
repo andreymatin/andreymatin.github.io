@@ -1,0 +1,21 @@
+/*
+ * Header
+ * ========================================================================== */
+
+.header {
+  padding: 3rem 0;
+}
+
+.header__logo {
+  color: $blue;
+  font-size: 4.4rem;
+
+  @include hover {
+    color: $blue;
+    text-decoration: none;
+  }
+}
+
+.header__subtitle {
+  font-size: 1.6rem;
+}

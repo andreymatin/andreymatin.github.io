@@ -1,0 +1,14 @@
+.article {
+
+  p + p {
+    margin-top: 1.5rem;
+  }
+
+  h2 {
+    margin: 2rem 0;
+  }
+}
+
+.article__header {
+  padding: 3rem 0;
+}

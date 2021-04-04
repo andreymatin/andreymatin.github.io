@@ -1,0 +1,12 @@
+.post-card{
+  display: flex;
+}
+
+.post-card__date {
+  width: 70px;
+}
+
+.post-card__title {
+  color: $blue;
+  text-decoration: underline;
+}
